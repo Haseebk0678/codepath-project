@@ -6,7 +6,7 @@ Submitted by: **Haseeb Khan**
 
 Time spent: **3** hours spent in total
 
-Link to project: (http://g.recordit.co/6jvTPbE9Lc.gif)
+Link to project: (https://glitch.com/edit/#!/maddening-beautiful-emmental)
 
 ## Required Functionality
 
@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-http://g.recordit.co/6jvTPbE9Lc.gifv
+http://g.recordit.co/6jvTPbE9Lc.gif
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [I used w3 schools when looking up how to make a block expand when using the hover function, and the implementation of flex]
