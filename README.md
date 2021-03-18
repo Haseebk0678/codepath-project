@@ -39,9 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://recordit.co/6jvTPbE9Lc
-
-
+http://g.recordit.co/6jvTPbE9Lc.gifv
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [I used w3 schools when looking up how to make a block expand when using the hover function, and the implementation of flex]
