@@ -6,7 +6,7 @@ Submitted by: **Haseeb Khan**
 
 Time spent: **3** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/maddening-beautiful-emmental)
+Link to project: (http://g.recordit.co/6jvTPbE9Lc.gif)
 
 ## Required Functionality
 
